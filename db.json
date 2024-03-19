@@ -1,0 +1,60 @@
+{
+  "profesores": [
+    {
+      "nombre": "Segie",
+      "apellidos": "Code",
+      "materias": [
+        {
+          "nombre": "Nodejs desde cero"
+        },
+        {
+          "nombre": "Reactjs desde cero"
+        },
+        {
+          "nombre": "Javascript desde cero"
+        }
+      ],
+      "id": "f958"
+    }
+  ],
+  "alumnos": [
+    {
+      "nombre": "Maria",
+      "apellidos": "Rodriguez",
+      "promedio": 8.2,
+      "id": "377a"
+    },
+    {
+      "nombre": "Alfonsina",
+      "apellidos": "Storni",
+      "promedio": 10,
+      "id": "9608"
+    },
+    {
+      "id": "257e",
+      "nombre": "George",
+      "apellidos": "Orwell",
+      "promedio": 10
+    }
+  ],
+  "cursos": [
+    {
+      "nombre": "Nodejs desde cero",
+      "duracion": 7,
+      "dificultad": "Intermedia",
+      "id": "a1f8"
+    },
+    {
+      "nombre": "Reactjs desde cero",
+      "duracion": 8,
+      "dificultad": "Intermedia",
+      "id": "87b2"
+    },
+    {
+      "nombre": "Angular desde cero",
+      "duracion": 8,
+      "dificultad": "Intermedia",
+      "id": "1633"
+    }
+  ]
+}
